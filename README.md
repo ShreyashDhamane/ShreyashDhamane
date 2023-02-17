@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Dhamane</h1>
 <h3 align="center">May Be Developer And Cinephile</h3>
 
-<div style="display:flex;"><img width="200px" height="200px" src="https://user-images.githubusercontent.com/85953417/219565686-20381089-4245-4dfd-a92f-f16743ed570c.gif"/>
+<div style="display:flex; align-items:center; justify-content:center;"><img width="200px" height="200px" src="https://user-images.githubusercontent.com/85953417/219565686-20381089-4245-4dfd-a92f-f16743ed570c.gif"/>
   <img width="200px" height="200px" src="https://user-images.githubusercontent.com/85953417/219566252-61f7a29f-3331-4de2-bda7-947b784fa0de.gif"/>
   <img width="150px" height="200px" src="https://user-images.githubusercontent.com/85953417/219566494-08c2dbf5-820c-4e0e-99d4-6695f0291c4e.gif" />
   <img width="200px" height="200px" src="https://user-images.githubusercontent.com/85953417/219569785-b1347610-3e71-446d-927d-17476ed109e3.gif" />
