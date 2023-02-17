@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreyash Dhamane</h1>
-<h3 align="center">May Be Developer/Technophile/Bookworm/Pianist/Hike/Narutard/Cinephile</h3>
+<h3 align="center">May Be Developer</h3>
 <iframe src="https://giphy.com/embed/l0amJzVHIAfl7jMDos" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-cafe-disco-l0amJzVHIAfl7jMDos">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashdhamane&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashdhamane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashdhamane" alt="shreyashdhamane" /></a> </p>
+
+- 👨‍💻 I'm Technophile/Bookworm/Pianist/Hike/Narutard/Cinephile ...
 
 - 🔭 I’m currently working on **Dermalens App**
 
