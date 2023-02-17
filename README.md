@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreyash Dhamane</h1>
 <h3 align="center">May Be Developer</h3>
-![giphy](https://user-images.githubusercontent.com/85953417/219565502-50cb1bda-0b50-4291-a3d1-4339f4bc0350.gif)
+
+![giphy](https://user-images.githubusercontent.com/85953417/219565686-20381089-4245-4dfd-a92f-f16743ed570c.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashdhamane&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashdhamane" /> </p>
 
