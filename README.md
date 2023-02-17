@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Dhamane</h1>
 <h3 align="center">May Be Developer</h3>
-# my gif
-![](https://github.com/ShreyashDhamane/ShreyashDhamane/blob/main/giphy.gif)
+![giphy](https://user-images.githubusercontent.com/85953417/219565502-50cb1bda-0b50-4291-a3d1-4339f4bc0350.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashdhamane&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashdhamane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashdhamane" alt="shreyashdhamane" /></a> </p>
