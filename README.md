@@ -10,7 +10,7 @@
 
 - 👨‍💻 I'm Technophile/Bookworm/Pianist/Hike/Narutard/Cinephile ...
 
-- 🔭 I’m currently working on **Dermalens App**
+- 🔭 I’m currently working on **my own small project**
 
 - 🌱 I’m currently learning **Kubernetes, Kafka, CSS Animations, ML**
 
