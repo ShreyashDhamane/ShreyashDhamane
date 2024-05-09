@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Dhamane</h1>
-<h3 align="center">May Be Developer And Cinephile</h3>
+<h3 align="center">Developer</h3>
 
 
 
