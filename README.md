@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-- 💬 Ask me about **web, app, ai, ml,**
+- 💬 Ask me about **Application Development or Artificial Intelligence**
 
 - 📫 How to reach me **shreyashb.dhamane0@gmail.com**
 
