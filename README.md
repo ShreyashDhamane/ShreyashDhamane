@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashdhamane" alt="shreyashdhamane" /></a> </p>
 
-- 👨‍💻 I'm Technophile/Bookworm/Pianist/Hike/Narutard/Cinephile ...
-
 - 🔭 I’m currently working on **my own small project**
 
 - 🌱 I’m currently learning **Kubernetes, Kafka, CSS Animations, ML**
