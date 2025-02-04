@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **shreyashb.dhamane0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15M9OqLtUNVCjHJCrPtMMjb3jvMtOzn-C/view?usp=sharing](https://drive.google.com/file/d/15M9OqLtUNVCjHJCrPtMMjb3jvMtOzn-C/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15M9OqLtUNVCjHJCrPtMMjb3jvMtOzn-C/view?usp=sharing](https://drive.google.com/file/d/1Y7gIqHZpHIzEBsw2WLoEcn4Jg4js1duZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
